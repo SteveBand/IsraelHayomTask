@@ -1,0 +1,78 @@
+[
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d45",
+
+    "name": "אברהם כהן",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/avraham-cohen",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d47",
+
+    "name": "חיים רוזנברג",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/haim-rosenberg",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d46",
+    "name": "רחל לוי",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/rachel-levi",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d48",
+    "name": "נחמה גולן",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/nehama-golan",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d4a",
+
+    "name": "יצחק שפירא",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/itzhak-shapira",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d49",
+    "name": "דנה מזרחי",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/dana-mizrahi",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d4b",
+
+    "name": "מרים שטרן",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/miriam-stern",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d4c",
+
+    "name": "שלמה גרין",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/shlomo-green",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d4d",
+
+    "name": "יעל אורן",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/yael-oren",
+    "__v": 0
+  },
+  {
+    "_id": "67aa2c2cb7cb8dcb05cf3d4e",
+    "name": "אסתר כהן",
+    "imageUrl": "https://assistanteplus.fr/wp-content/uploads/2022/04/chat-midjourney.webp",
+    "pageUrl": "https://example.com/writers/esther-cohen",
+    "__v": 0
+  }
+]
