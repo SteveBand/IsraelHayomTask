@@ -46,7 +46,7 @@ const WritersCarousel = (props: Props) => {
   return (
     <div className="overflow-hidden w-100">
       <h1 className="text-[28px] border-r-[10px] border-custom-red mb-5 mr-3 pr-4 font-semibold text-custom-black">
-        כתבי הטורים
+        כותבי הטורים
       </h1>
       <div className="relative">
         <div
