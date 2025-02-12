@@ -136,7 +136,7 @@ To modify MongoDB settings, locate the `mongodb` service in the `docker-compose.
 
 - **Docker Configuration for Each Framework:**
 
-  - Each of the Client and Server folders includes its own `Dockerfile` and `docker-compose.yml` to build and run the individual components.
+  - Each of the Client and Server folders includes its own `Dockerfile` to build and run the individual components.
   - The root-level `docker-compose.yml` combines these services with the MongoDB service, ensuring that the entire stack is built and executed together.
 
 - **Seeding:**
